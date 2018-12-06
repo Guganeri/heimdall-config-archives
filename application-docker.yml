@@ -97,7 +97,7 @@ spring:
             INDENT_OUTPUT: true
             WRITE-DATES-AS-TIMESTAMPS: false
     rabbitmq:
-        host: 10.42.0.9
+        host: 10.42.0.38
         port: 5672
         #virtual-host: dev
         requested-heartbeat: 10
